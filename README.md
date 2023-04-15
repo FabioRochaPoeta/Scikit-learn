@@ -1,4 +1,2 @@
 # Scikit-Learn
-The basics about Scikit-Learn library# Alinhamento
-
-Testando git.
+The basics about Scikit-Learn library
